@@ -1,0 +1,29 @@
+body{
+  background-image: url(../images/farm.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+  width:100%;
+  margin: 0;
+}
+#cat{
+  height:120px;
+  width:100px;
+  position: absolute;
+  top: 350px;
+  left:1100px;
+}
+#dog{
+  height:100px;
+  width:150px;
+  position: absolute;
+  top:500px;
+  left:800px;
+}
+#cow{
+  height:150px;
+  width:200px;
+  position: absolute;
+  top:400px;
+  left:300px;
+}
